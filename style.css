@@ -2,7 +2,7 @@ header{
     display: flex;
     justify-content: space-around;
     background-color: rgb(199, 243, 214);
-    padding: 20px;
+    padding: 30px;
     box-sizing: border-box;
     align-items: center;
 
@@ -13,13 +13,13 @@ header{
 
 .carousel-inner {
     display: flex;
-    width: 400px;
+    width: 410px;
     margin: auto 0;
 }
 
 .carousel slide {
     display: flex;
-    width: 400px;
+    width: 410px;
     margin: auto 0;
 }
 
